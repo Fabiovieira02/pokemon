@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt--br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viiewport" content="wigth=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokedex</title>
+</head>
+<body>
+    <h1>pokedex</h1><br>
+    <div class="pokrContainer" id="pokeConntainer"></div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Bulbasaur</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Squirtle</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Charmander</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="Nome">
+        </div>
+        <div class="info">
+             <span class="number">#1</span>
+             <h3 class="name">Charmander</h3>
+             <small class="type">type: <span>Fogo</span></small>
+    </div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Charmander</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Charmander</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c319.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">Charmander</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+16:12 voltar nesse temppo
+
+https://www.youtube.com/watch?v=MUg12FE2LCI&t=249s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #d4d4d4, #efefbb);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.pokeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+    margin-top: 2%;
+
+}
+
+.pokemon {
+    background-color: #e5ffb5;
+    border-radius: 10px;
+    box-shadow: 0 3px 15px  rgba(100, 100, 100, 0.5);
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 2%;
+    
+}
+
+.imgContainer {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 245, 245, 0.6);
+     border-radius: 50%;
+     width: 120px;
+     height: 120px;
+     text-align: center;
+}
+
+.imgContainer {
+   max-width: 90%;
+   margin-top: 20px;
+
+}
+
+.info {
+    margin-bottom: 5px;
+}
+
+
+.number {
+    background-color: rgba(0, 0, 0, 0.15);
+    padding: 2px 13px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+
+}
+.pokemon img {
+    height: 80px;
+}
