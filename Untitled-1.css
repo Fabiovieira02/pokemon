@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400display=swap');
 
 *{
@@ -8,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #d4d4d4, #efefbb);
+    background: linear-gradient(to right, #30c7bf, #5a6768, #24a3ac);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,7 +33,7 @@ h1 {
 .pokemon {
     background-color: #e5ffb5;
     border-radius: 10px;
-    box-shadow: 0 3px 15px  rgba(100, 100, 100, 0.5);
+    box-shadow: 0 3px 15px  rgba(255, 3, 3, 0.692);
     margin: 2px;
     padding: 10px;
     text-align: center;
@@ -44,7 +45,7 @@ h1 {
     display: flex; 
     justify-content: center;
     align-items: center;
-    background-color: rgba(245, 245, 245, 0.6);
+    background-color: rgba(255, 0, 0, 0.6);
      border-radius: 50%;
      width: 120px;
      height: 120px;
@@ -72,6 +73,7 @@ h1 {
 .pokemon img {
     height: 80px;
 }
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
