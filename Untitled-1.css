@@ -72,3 +72,124 @@ h1 {
 .pokemon img {
     height: 80px;
 }
+
+
+
+        
+
+<!DOCTYPE html>
+<html lang="pt--br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viiewport" content="wigth=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokedex</title>
+</head>
+<body>
+    <h1>pokedex</h1><br>
+    <div class="pokrContainer" id="pokeConntainer"></div>
+</div>
+
+<div class="pokemon">
+    <img src="https://www.cartoonbucket.com/wp-content/uploads/2015/05/Mega-Pikachu-Ready-For-Fight.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#1</span>
+     <h3 class="name">𝐏𝐢𝐤𝐚𝐜𝐡𝐮</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#2</span>
+     <h3 class="name">𝐒𝐪𝐮𝐢𝐫𝐭𝐥𝐞</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#3</span>
+     <h3 class="name">𝘾𝙖𝙩𝙚𝙧𝙥𝙞𝙚</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="Nome">
+        </div>
+        <div class="info">
+             <span class="number">#4</span>
+             <h3 class="name">𝙘𝙝𝙖𝙧𝙢𝙖𝙣𝙙𝙚𝙧</h3>
+             <small class="type">type: <span>Fogo</span></small>
+    </div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#5</span>
+     <h3 class="name">𝙗𝙪𝙡𝙗𝙖𝙨𝙖𝙪𝙧</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+<div class="pokemon">
+    <img src="https://static.wikia.nocookie.net/victoryroad/images/1/1c/FRLGArt_Psyduck.png/revision/latest?cb=20190522141957" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#6</span>
+     <h3 class="name">𝙋𝙨𝙮𝙙𝙪𝙘𝙠</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+
+<div class="pokemon">
+    <img src="https://uvn-brightspot.s3.amazonaws.com/assets/vixpt/bbr/151.png" alt="Nome">
+</div>
+<div class="info">
+     <span class="number">#7</span>
+     <h3 class="name">𝙈𝙚𝙬𝙩𝙬𝙤</h3>
+     <small class="type">type: <span>Fogo</span></small>
+</div>
+</div>
+
+<div>
+    <style>
+        .image-container {
+          display: flex;
+          flex-direction: column;
+        }
+    
+        .image-container img {
+          margin-bottom: 10px;
+        }
+      </style>
+    </head>   
+</div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+^
+|
+
+Pokedex
