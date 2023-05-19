@@ -12,13 +12,12 @@
     <div class="pokrContainer" id="pokeConntainer"></div>
 </div>
 
-
 <div class="pokemon">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Nome">
+    <img src="https://www.cartoonbucket.com/wp-content/uploads/2015/05/Mega-Pikachu-Ready-For-Fight.png" alt="Nome">
 </div>
 <div class="info">
      <span class="number">#1</span>
-     <h3 class="name">Bulbasaur</h3>
+     <h3 class="name">𝐏𝐢𝐤𝐚𝐜𝐡𝐮</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
@@ -28,8 +27,8 @@
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="Nome">
 </div>
 <div class="info">
-     <span class="number">#1</span>
-     <h3 class="name">Squirtle</h3>
+     <span class="number">#2</span>
+     <h3 class="name">𝐒𝐪𝐮𝐢𝐫𝐭𝐥𝐞</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
@@ -39,8 +38,8 @@
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="Nome">
 </div>
 <div class="info">
-     <span class="number">#1</span>
-     <h3 class="name">Charmander</h3>
+     <span class="number">#3</span>
+     <h3 class="name">𝘾𝙖𝙩𝙚𝙧𝙥𝙞𝙚</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
@@ -50,8 +49,8 @@
             <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="Nome">
         </div>
         <div class="info">
-             <span class="number">#1</span>
-             <h3 class="name">Charmander</h3>
+             <span class="number">#4</span>
+             <h3 class="name">𝙘𝙝𝙖𝙧𝙢𝙖𝙣𝙙𝙚𝙧</h3>
              <small class="type">type: <span>Fogo</span></small>
     </div>
 </div>
@@ -61,67 +60,55 @@
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Nome">
 </div>
 <div class="info">
-     <span class="number">#1</span>
-     <h3 class="name">Charmander</h3>
+     <span class="number">#5</span>
+     <h3 class="name">𝙗𝙪𝙡𝙗𝙖𝙨𝙖𝙪𝙧</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
 
 <div class="pokemon">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="Nome">
+    <img src="https://static.wikia.nocookie.net/victoryroad/images/1/1c/FRLGArt_Psyduck.png/revision/latest?cb=20190522141957" alt="Nome">
 </div>
 <div class="info">
-     <span class="number">#1</span>
-     <h3 class="name">Charmander</h3>
+     <span class="number">#6</span>
+     <h3 class="name">𝙋𝙨𝙮𝙙𝙪𝙘𝙠</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
 
 
 <div class="pokemon">
-    <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c319.png" alt="Nome">
+    <img src="https://uvn-brightspot.s3.amazonaws.com/assets/vixpt/bbr/151.png" alt="Nome">
 </div>
 <div class="info">
-     <span class="number">#1</span>
-     <h3 class="name">Charmander</h3>
+     <span class="number">#7</span>
+     <h3 class="name">𝙈𝙚𝙬𝙩𝙬𝙤</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
 
+<div>
+    <style>
+        .image-container {
+          display: flex;
+          flex-direction: column;
+        }
+    
+        .image-container img {
+          margin-bottom: 10px;
+        }
+      </style>
+    </head>   
+</div>
 
-    <script src="script.js"></script>
+
 </body>
 </html>
-
-
-    <script src="script.js"></script>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
 
 
 16:12 voltar nesse temppo
 
 https://www.youtube.com/watch?v=MUg12FE2LCI&t=249s
-
-
-
-
-
-
-
-
-
 
 
 
@@ -138,7 +125,7 @@ https://www.youtube.com/watch?v=MUg12FE2LCI&t=249s
 }
 
 body {
-    background: linear-gradient(to right, #d4d4d4, #efefbb);
+    background: linear-gradient(to right, #f36a6a70, #5dc5cc);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -162,7 +149,7 @@ h1 {
 .pokemon {
     background-color: #e5ffb5;
     border-radius: 10px;
-    box-shadow: 0 3px 15px  rgba(100, 100, 100, 0.5);
+    box-shadow: 0 3px 15px  rgba(255, 3, 3, 0.5);
     margin: 2px;
     padding: 10px;
     text-align: center;
@@ -174,7 +161,7 @@ h1 {
     display: flex; 
     justify-content: center;
     align-items: center;
-    background-color: rgba(245, 245, 245, 0.6);
+    background-color: rgba(255, 0, 0, 0.6);
      border-radius: 50%;
      width: 120px;
      height: 120px;
@@ -202,3 +189,10 @@ h1 {
 .pokemon img {
     height: 80px;
 }
+
+
+
+
+
+
+
