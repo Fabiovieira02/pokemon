@@ -12,6 +12,7 @@
     <div class="pokrContainer" id="pokeConntainer"></div>
 </div>
 
+
 <div class="pokemon">
     <img src="https://www.cartoonbucket.com/wp-content/uploads/2015/05/Mega-Pikachu-Ready-For-Fight.png" alt="Nome">
 </div>
@@ -75,6 +76,8 @@
      <small class="type">type: <span>Fogo</span></small>
 </div>
 </div>
+
+
 <div class="pokemon">
     <img src="https://uvn-brightspot.s3.amazonaws.com/assets/vixpt/bbr/151.png" alt="Nome">
 </div>
@@ -83,6 +86,10 @@
      <h3 class="name">𝙈𝙚𝙬𝙩𝙬𝙤</h3>
      <small class="type">type: <span>Fogo</span></small>
 </div>
+</div>
+
+
+
 
 <div>
     <style>
@@ -99,14 +106,9 @@
 </div>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-
+</body>
 </html>
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
